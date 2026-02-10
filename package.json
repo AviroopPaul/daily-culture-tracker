@@ -1,0 +1,21 @@
+{
+  "name": "daily-culture-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "refresh": "node scripts/refresh.js"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "type": "module"
+}
